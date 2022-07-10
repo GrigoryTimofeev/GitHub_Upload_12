@@ -1,6 +1,6 @@
-# Fintech Module 11 Challenge: Forecasting Net Prophet.
+# Fintech Module 12 Challenge: Credit Risk Resampling.
 
-Analyze the company's financial and user data to help the company grow. This is accomplished by evaluating the data to predict whether search traffic can translate into the ability to successfully trade the stock.
+In this project the taks will be to count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
 ![alt text](screenshotsMod11/Mercado1.png)
 
