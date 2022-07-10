@@ -2,18 +2,6 @@
 
 In this project the taks will be to count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
-![alt text](screenshotsMod11/Mercado1.png)
-
-![alt text](screenshotsMod11/mercado2.png)
-
-![alt text](screenshotsMod11/mercado3.png)
-
-![alt text](screenshotsMod11/mercado4.png)
-
-![alt text](screenshotsMod11/mercado5.png)
-
-![alt text](screenshotsMod11/mercado6.png)
-
 ---
 
 ## Technologies
