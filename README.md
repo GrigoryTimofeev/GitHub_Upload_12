@@ -27,7 +27,6 @@ Please install the following before starting the application
 ```
 conda install -c conda-forge imbalanced-learn
 conda install -c conda-forge pydotplus
-
 ```
 
 ---
